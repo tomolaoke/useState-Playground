@@ -19,7 +19,7 @@ const Header = () => {
         </Link>
       </ul>
       <Username name="Peter" />
-      <Age myAge={31} />
+      <Age myAge={34} />
     </div>
   );
 };
